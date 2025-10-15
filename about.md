@@ -5,13 +5,16 @@ title: About
 
 ### About
 
-assets/img/teamphoto.HEIC
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/teamphoto.HEIC">
 
-Individual Bios
+Aileen W
+I have a dog and 2 turtles. I want to go into Human Centered Design and Engineering.
 
-Roles or Contributions (optional, only if it makes sense to your team)
+Aileen's Roomate 1
+I like cats, books, and arts and crafts. I am going into accounting.
 
-Where readers can find more details about the project, e.g. code, data, reports, etc.
+Aileen's Roomate 2
+I like cheetohs and ice cream. I am going into finance.
 
 Acknowledgements
-
+Prof. Almquist
