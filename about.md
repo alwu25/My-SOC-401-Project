@@ -5,7 +5,7 @@ title: About
 
 ### About
 
-Team Photo
+assets/img/teamphoto.HEIC
 
 Individual Bios
 
