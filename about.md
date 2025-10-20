@@ -5,7 +5,7 @@ title: About
 
 ### About
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/teamphoto.HEIC">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Team spirit.png">
 
 | Aileen W |
 
