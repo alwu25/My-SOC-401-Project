@@ -24,3 +24,7 @@ Aileen Wu
 # Abstract or executive summary
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6q6Pl5O9mn6QPAAVlsqWPUnwXlZveJF0LPg7_aVAsrMVav-NVVcctC8702pHu6QnyMlgdbJdAhraR/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+**Things I've Changed:**
+
+- index.md, theme color, about page, deleted method pages 1 & 2, inserted google sheet, domain, website title
